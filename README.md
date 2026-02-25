@@ -1,4 +1,7 @@
 practica-conflicto
-hola soy el compañero b
-===
+ HEAD
+hola soy el compañero b y
+
+Hola soy martin A 
+
 
